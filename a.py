@@ -2,3 +2,4 @@
 +a=20
 +c=a+b
 print(c)
+d=a*c
